@@ -1,0 +1,8 @@
+.bgc{
+    background-color: rgba(238, 145, 145, 0.71);
+    color: rgba(0, 0, 0, 0.67);
+    height: 100px;
+    text-align: center;
+    border-radius: 30px;
+    padding-top: 60px;
+}
