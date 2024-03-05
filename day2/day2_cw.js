@@ -1,5 +1,10 @@
 //day 2 classwork
-
+const h1 = React.createElement('h2',{style:{
+    color: 'white'},
+    id:"h1inRoot",
+    className: "heading"
+}, 
+"REACT  : DAY 2 CLASSWORK")
 const title = React.createElement('h2', {}, "Learn web development")
 const p1 = React.createElement('p',{}, "Welcome to the MDN learning area. This set of articles aims to guide complete beginners to web development with all that they need to start coding websites.")
 const p2 = React.createElement('p',{}, 'The aim of this area of MDN is not to take you from "beginner" to "expert" but to take you from "beginner" to "comfortable." From there, you should be able to start making your way, learning from ',
@@ -11,5 +16,5 @@ const div1 = React.createElement('div',{}, [p1])
 const div2 = React.createElement('div',{}, [p2])
 const div3 = React.createElement('div',{}, [p3])
 
-const main_div = React.createElement('div',{className: "mainDiv"}, ["DAY 2 CLASSWORK", title, div1, div2, div3])
+const main_div = React.createElement('div',{className: "mainDiv"}, [h1, title, div1, div2, div3])
 ReactDOM.render(main_div, document.getElementById('root'))
