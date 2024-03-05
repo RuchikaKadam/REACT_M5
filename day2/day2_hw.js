@@ -24,11 +24,3 @@ const a3 = React.createElement('a',{}, "CSS-Styling the web")
 const hwDiv = React.createElement('div',{}, [h1, heading, des, a1, p1, a2, p2, a3, p3]);
 ReactDOM.render(hwDiv, document.getElementById('root'));
 
-
-
-//day 2 classwork
-
-
-
-
-
