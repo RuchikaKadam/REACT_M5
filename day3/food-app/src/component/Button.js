@@ -7,7 +7,8 @@ export const Button = (props) => {
         style={{
             color : props.fontColor,
             backgroundColor : props.backgroundColor,
-            borderRadius : props.borderRadius
+            borderRadius : props.borderRadius,
+            padding: "9px 1rem"
         }}
         className='button'
     >
