@@ -1,4 +1,5 @@
 import React, { useState } from 'react'
+import './CourseCard.css'
 
 const CourseCard = ({name, hour, key}) => {
     const [hourval, updateHourval] = useState(hour);
@@ -8,7 +9,7 @@ const CourseCard = ({name, hour, key}) => {
         display:'inline-block',
         padding:'10px',
         margin:'10px'
-    }} 
+    }} className='container'
     key={key}>
         <p>{name}</p>
         <p>{hourval}</p>

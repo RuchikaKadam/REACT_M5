@@ -1,0 +1,7 @@
+.container{
+    background-color: rgba(0, 0, 0, 0.602); 
+    color: antiquewhite;
+    border: 2px solid grey;
+    display: flex;
+    flex-direction: row;
+}
