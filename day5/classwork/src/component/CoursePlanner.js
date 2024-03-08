@@ -1,6 +1,6 @@
 import React,{useState} from 'react'
 import './CoursePlanner.css'
-import { CourseCard } from './CourseCard'
+import CourseCard from './CourseCard'
 
 const CoursePlanner = () => {
     const [courseData, setterCourseData] = useState([])

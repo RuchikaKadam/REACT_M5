@@ -3,7 +3,8 @@ import React, { useState } from 'react'
 const CourseCard = ({name, hour, key}) => {
     const [hourval, updateHourval] = useState(hour);
   return (
-    <div style={{
+    <>
+        <div style={{
         display:'inline-block',
         padding:'10px',
         margin:'10px'
@@ -17,6 +18,7 @@ const CourseCard = ({name, hour, key}) => {
         </div>
 
     </div>
+    </>
   )
 }
 export default CourseCard;
