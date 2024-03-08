@@ -1,0 +1,10 @@
+#footer-social-nav {
+    display: flex;
+    justify-content: space-around;
+    width: 20rem;
+}
+.icon {
+    font-size: 24px;
+    margin-right: 10px;
+    cursor: pointer;
+}
