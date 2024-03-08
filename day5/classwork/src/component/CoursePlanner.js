@@ -26,9 +26,7 @@ const CoursePlanner = () => {
     return (
         <>
             <div style = {{textAlign: 'center',
-        color:'#45efcd',
-        backgroundColor:'#e4e4e4',
-        minHeight:'800px'}}>
+        minHeight:'800px', backgroundColor:'#e4e4e4', verticalAlign:'center'}} className='container heading'>
                 <h2>PLAN YOUR COURSE</h2>
                 <div style={{display:'flex', justifyContent:'center', gap:'0.6rem'}}>
                     <input id='course-name' type='text' placeholder='course-name' />

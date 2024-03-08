@@ -1,0 +1,7 @@
+.heading{
+    background-color: rgba(0, 0, 0, 0.602); 
+    color: antiquewhite;
+    text-shadow: 2px 2px 2px grey;
+    border: 2px solid grey;
+    border-radius: 1rem;
+}
