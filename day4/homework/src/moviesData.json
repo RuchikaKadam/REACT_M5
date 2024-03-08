@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "imageUrl": "https://lh3.googleusercontent.com/proxy/NhLLVSRRwZiwpcqIcBppZHmhLwsubPUlkCjrpT3z005YrRfeZ8Ong0nqOt-YiOaHc3LxR9GRsbTd9lXiDfnWLn0_vRcXXx-8557n0CG1-A",
+      "bannerImage" : "https://lh3.googleusercontent.com/proxy/V1wui50C6eTI-XY5yM2z7HtJGPtXxrTX-a-SKpxqvUgbtgHmmtMpLyW4pskPPBRZRj29TICYhFtgvCiJUPLW3MnykFC9NK8H5lk",
+      "name": "Movie 1",
+      "releaseYear": 2021,
+      "director":"Rolph",
+      "duration": 120,
+      "genres": ["Action", "Adventure"],
+      "description": "A detective must work with an Orc to find a powerful wand before evil creatures do."
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0tV3CFezTOEGkX9CfXM2g6My-8KU1RV2UryCJSRIXI5Ss0zYIymz3Jqcs8L3l6pVMxv4&usqp=CAU",
+      "bannerImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXZRt_2thKCoEm3iY40JhyOb5KieQF_Zq3swhPT_EfXlQME0H-oPnET-cFk6cddf1K6e0&usqp=CAU",
+      "name": "Movie 2",
+      "releaseYear": 2020,
+      "director":"David",
+      "duration": 110,
+      "genres": ["Comedy", "Drama"],
+      "description": "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father, Lord Richard Croft disappeared."
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN1d9D00N5uP0pXRinF1Mfa13xNdDVetWlCCLb5GaBn8tpUAhYZghX5eRuxpkcfV2XH9U&usqp=CAU",
+        "bannerImage" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpA6MJ7q4mg9DbHqC1NO-uiytR-VLHEmMbpG6a6p-WUvDr3WNndi-hKfogQ3RRSP5j57s&usqp=CAU",
+        "name": "Movie 3",
+        "releaseYear": 2022,
+        "director":"Adelle",
+        "duration": 130,
+        "genres": ["History", "Drama"],
+        "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s."
+      }
+  ]
+  
