@@ -1,0 +1,37 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "name": "Electronics",
+        "products": [
+          {
+            "id": 1,
+            "name": "Smartphone",
+            "price": 999
+          },
+          {
+            "id": 2,
+            "name": "Laptop",
+            "price": 1499
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Clothing",
+        "products": [
+          {
+            "id": 3,
+            "name": "T-Shirt",
+            "price": 19
+          },
+          {
+            "id": 4,
+            "name": "Jeans",
+            "price": 39
+          }
+        ]
+      }
+    ]
+  }
+  
