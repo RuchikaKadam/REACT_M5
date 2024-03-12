@@ -5,8 +5,9 @@ const TotalProducts = () => {
   const totalProducts = 4;
 
   return (
+    
     <div>
-      <span className="cart-icon">Cart Icon</span>
+      <span className="cart-icon"></span>
       <span className="cart-count">{totalProducts}</span>
     </div>
   );

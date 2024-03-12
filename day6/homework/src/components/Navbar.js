@@ -20,7 +20,7 @@ const Navbar = ({ cart, clearCart }) => {
     }}>
       <h1>UseReducer</h1>
       <div className="cart">
-        <span className="cart-icon">  <faCartArrowDown className='cart-icon'/> </span>
+        <span className="cart-icon">  {<faCartArrowDown className='cart-icon'/> }</span>
         <span className="cart-count">{totalProducts}</span>
       </div>
     </nav>
