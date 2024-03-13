@@ -1,0 +1,37 @@
+.nav{
+  background-color: rgb(39, 39, 39);
+  color: grey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 10vh;
+  width: 100vw;
+  padding: 5% 10%;
+  margin-top: -1%;
+  box-sizing: border-box;
+  font-size: xx-large;
+}
+.nav li{
+  list-style: none;
+}
+
+.cart-icon{
+  color:aliceblue;
+}
+
+.main-container-cart{
+  text-align: center;
+  padding: 5%;
+  margin-top: -5%;
+  background-color: rgb(196, 194, 194);
+}
+
+.product-container{
+  background-color: rgba(128, 128, 128, 0.31);
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}

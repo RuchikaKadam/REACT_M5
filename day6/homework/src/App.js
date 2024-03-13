@@ -56,7 +56,7 @@ const App = () => {
           <button onClick={clearCart} clearCart={clearCart} style={{transform:'translateY(80px)', backgroundColor:'black', color:'rgb(188, 241, 223)', padding:'16px', fontSize:'16px', borderRadius:'5px'}}>Clear Cart</button>
           <p>{TotalAmount}</p>
       </div>
-      <p style={{padding:'10px 20%', width:'400px', fontSize:'30px'}}>its really challenging to complete all the assignments. I am a Master's student and I barely get time to attend classes. I apologize for the bad and incomplete projects.</p>
+      <p style={{padding:'10px 20%', width:'400px', fontSize:'30px'}}>its really challenging to complete all the assignments. I am a Master's student and I barely get time to attend classes. I apologize for the bad and incomplete projects. Thank you for your patience.</p>
       
     </div>
   );
