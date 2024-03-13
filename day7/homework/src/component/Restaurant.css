@@ -22,3 +22,17 @@
     padding: 10px;
     width: 40%;
 }
+.allCards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.oneCard{
+    box-shadow: 1px 1px 10px grey;
+    width: 30rem;
+    padding: 1rem;
+    border-radius: 1rem; 
+    margin: 1%;
+}
