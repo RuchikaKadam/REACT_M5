@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem 0;
+    background-color: #111827;
+    color: rgb(255, 255, 255);
+}
+
+.nav-links {
+    display: flex;
+    gap: 2rem;
+}
+.nav-links>div:hover{
+    color: rgb(51, 51, 250);
+}
+.nav-links .activeNow{
+    color: rgb(51, 51, 250);
+}
+.vertical-centre{
+    display: flex;
+    align-items: center;
+}
